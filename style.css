@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: left;
+    font-family: Roboto;
+    letter-spacing: 1px;
+    width: 450px;
+    margin: 30px;
+   
+}
+
+td {
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.oranžinė {
+    background: #fea500;
+    color: white;
+}
+
+.mėlyna {
+    background: #4f4fff;
+    color: white;
+}
+
+.žalia {
+    background: #16c03b;
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+}
